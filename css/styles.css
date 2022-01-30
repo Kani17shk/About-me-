@@ -1,0 +1,44 @@
+body {
+  background-color: #fef9f8;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 05px;
+  background-color: #fef9f8;
+  border-color: #BFD8B8;
+  width: 15%;
+}
+
+h1 {
+  color: #ef9273;
+}
+
+h3{
+  color: #ef9273;
+}
+
+.kanishkimage{
+height: 150px;
+border-radius: 20%;
+}
+
+.kanishkimage:hover{
+  height: 165px;
+  border-radius: 20%;
+  background-color:#0d0d0d;
+}
+a{
+  color: #ef9273;
+}
+
+p{
+  color:#0d0d0d;
+}
+li {
+  color:#0d0d0d;
+}
+ td{
+  color:#0d0d0d;
+}
